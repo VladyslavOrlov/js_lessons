@@ -1,4 +1,4 @@
 node_modules/
-# IntellijIdea files
-.idea/
-.DS_Store
+.csscomb.json
+gulpfile.js
+package.json
